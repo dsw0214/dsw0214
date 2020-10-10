@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's talk about 杜世伟(dsw0214) 👋
 
 <!--
 **dsw0214/dsw0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsw0214&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsw0214&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
